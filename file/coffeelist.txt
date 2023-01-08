@@ -1,0 +1,6 @@
+1 Latte 3 32
+2 Milktea 4 19
+3 Green-Tea 2 15
+4 Cappucino 3 13
+5 Olong-Tea 2.5 10
+6 Ice-Latte 2.5 0
